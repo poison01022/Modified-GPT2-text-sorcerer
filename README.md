@@ -26,8 +26,8 @@ A lightweight text generation web app powered by a fine-tuned GPT-2 model. This 
 
 ## 🚀 How to Run
 
-### 1. Clone the repository:
+###  Clone the repository:
 
 ```bash
 git clone https://github.com/poison01022/Modified-GPT-2-Text-Sorcerer.git
-cd Modified-GPT-2-Text-Sorcerer
+cd Modified-GPT-2-text-sorcerer
